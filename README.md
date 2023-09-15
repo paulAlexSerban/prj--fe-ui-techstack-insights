@@ -1,4 +1,4 @@
-# Front-end UI Tech-stack Insights
+# [Front-end UI Tech-stack Insights](https://paulalexserban.github.io/prj--fe-ui-techstack-insights/)
 
 [![Traefik](https://img.shields.io/badge/Traefik-v2-green)](https://traefik.io/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-18.17.1-green)](https://nodejs.org/docs/latest-v14.x/api/)
@@ -10,6 +10,20 @@
 ## About 📖
 
 This project serves as a comprehensive guide and demo for understanding and implementing front-end UI technologies. It showcases the core UI technology stack including HTML, CSS, and JavaScript, supported by detailed technical documentation and live demo pages.
+
+## Built With
+
+- **Bash/Shell Scripts**: For automating tasks and setting up the environment.
+- **Docker**: For containerization and isolated environment.
+- **Node.js**: Backend JavaScript runtime.
+- **Nginx**: Web server used for serving the static files.
+- **Traefik**: For modern HTTP reverse proxy.
+- **Living-Style-Guide**: Documentation of styles.
+- **Babel**: JavaScript compiler.
+- **ESLint**: JavaScript linter for identifying and fixing code.
+- **Webpack**: For bundling JavaScript files.
+- **Server Side Generation**: For pre-rendering pages on the server.
+- **JAMstack**: Modern architecture based on client-side JavaScript, APIs, and Markup.
 
 ## Features 🌟
 
